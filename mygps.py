@@ -19,9 +19,9 @@ def serializer(obj):
     raise TypeError
 
 class MyGPS(plugins.Plugin):
-    __author__ = '33197631+dadav@users.noreply.github.com'
-    __version__ = '1.0.0'
-    __license__ = 'GPL3'
+    __author__ = 'inbux.development@gmail.com'
+    __version__ = '0.0.1'
+    __license__ = 'MIT'
     __description__ = 'This plugin allows the user to receive GPS information from a connected phone using GPSLogger App.'
     
     LINE_SPACING = 10
